@@ -3,7 +3,7 @@ layout:     post
 title:      Markdown Beginner
 subtitle:   
 date:       2018-09-25
-author:     Xin YAO
+author:     mszhe
 catalog: true
 tags:
     - Markdown
