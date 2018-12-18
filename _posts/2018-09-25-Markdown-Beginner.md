@@ -169,14 +169,3 @@ _content_
 <font face="微软雅黑">我是微软雅黑</font>
 
 <font face="Verdana">I like Verdana format</font> 
-
-# Reference
-[1]:[Markdown: Syntax](https://daringfireball.net/projects/markdown/syntax)
-
-[2]:[认识与入门 Markdown](https://sspai.com/post/25137)
-
-[3]:[Markdown 语法大全](https://blog.csdn.net/qcx321/article/details/53780672)
-
-[4]:[markdown toc](https://github.com/houbb/markdown-toc)
-
-[5]:[sublime with markdown-toc](https://www.cnblogs.com/Sinte-Beuve/p/5148108.html)
