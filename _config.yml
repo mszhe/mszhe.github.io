@@ -33,8 +33,8 @@ description_footer: mszhe'blog
 # using Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 52bbb620d9680fd85254                            #生成的clientID
-  clientSecret: d92cec378527800b0816d1bdd26dc71eb5dd0ccd    #生成的clientSecret
+  clientID: 0772a8b2dd0ec13a0e9b                            #生成的clientID
+  clientSecret: be7c635baec35a305d730635a18ac48e1bff4a71    #生成的clientSecret
   repo: mszhe.github.io    #仓库名称
   owner: mszhe    #github用户名
   admin: mszhe
@@ -45,15 +45,15 @@ gitalk:
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
 # baidu_tongji_id: 1cc1fc4b4b456bf7c99ce80aec5bf009
-google_analytics_id: UA-126298955-1 # google 分析追踪id
+google_analytics_id: UA-131174091-1 # google 分析追踪id
 ga_domain: auto
 
-friends: [
-{
-  title: "Linkedin - mszhe",
-  href: "https://www.linkedin.com/in/%E4%BF%A1-%E5%A7%9A-947492167/"
-}
-]
+#friends: [
+#  {
+#    title: "Linkedin - mszhe",
+#    href: "https://www.linkedin.com/in/%E4%BF%A1-%E5%A7%9A-947492167/"
+#  }
+#]
 
 # Build settings
 markdown: kramdown
