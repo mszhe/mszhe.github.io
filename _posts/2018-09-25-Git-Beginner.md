@@ -4,7 +4,9 @@ title:      Git Beginner
 subtitle:   History Blogs @ 2015/10/1
 date:       2018-09-25
 author:     mszhe
-catalog: true
+catalog:    true
+categories:
+    - 工具
 tags:
     - git
 ---

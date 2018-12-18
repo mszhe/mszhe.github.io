@@ -7,7 +7,7 @@
 
 # Site settings
 title: "mszhe's blog"
-brief-intro: "mszhe"
+brief-intro: "daily notes, good day!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mszhe.github.io" # the base hostname & protocol for your site
 
@@ -18,8 +18,8 @@ twitter_username: #gaohaoyang126
 facebook_username: #gaohaoyang.water
 github_username:  mszhe
 email: mszhe@outlook.com
-weibo_username: 
-zhihu_username: 
+weibo_username:
+zhihu_username:
 linkedIn_username: mszhe
 dribbble_username:
 
@@ -49,10 +49,10 @@ google_analytics_id: UA-126298955-1 # google 分析追踪id
 ga_domain: auto
 
 friends: [
-    {
-        title: "Linkedin - mszhe",
-        href: "https://www.linkedin.com/in/%E4%BF%A1-%E5%A7%9A-947492167/"
-    }
+{
+  title: "Linkedin - mszhe",
+  href: "https://www.linkedin.com/in/%E4%BF%A1-%E5%A7%9A-947492167/"
+}
 ]
 
 # Build settings
