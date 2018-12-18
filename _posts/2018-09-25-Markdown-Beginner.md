@@ -2,7 +2,7 @@
 layout:     post
 title:      Markdown Beginner
 subtitle:   
-date:       2018-09-25
+date:       2018-12-18
 author:     mszhe
 catalog:    true
 categories:
@@ -12,8 +12,6 @@ tags:
 ---
 <!-- MarkdownTOC -->
 
-- [前言](#%E5%89%8D%E8%A8%80)
-    - [Tools](#tools)
 - [Markdown: Syntax](#markdown-syntax)
     - [目录](#%E7%9B%AE%E5%BD%95)
     - [标题](#%E6%A0%87%E9%A2%98)
@@ -38,20 +36,8 @@ tags:
 
 <!-- /MarkdownTOC -->
 
-# 前言
-阶段性总结有利于精确自己的目标, 以及为后续的想法开辟空间.
 
-因此开始有必要整理记录.
-
-但是因为没必要像写paper那样规范使用latex, 因此就选择了Markdown.
-
-
-## Tools
-Windows - [MarkdownPad](http://www.markdownpad.com/)
-
-Github Pages - (If you have one)
-
-# Markdown: Syntax
+# Markdown语法
 ## 目录
     [TOC]
 
@@ -119,7 +105,7 @@ Github Pages - (If you have one)
 
 ## 本身就是链接
     <url>
-<https://xinyao1994.github.io/>
+<https://mszhe.github.io/>
 
 ## 分割线
     ***
