@@ -32,5 +32,7 @@ Exception in thread "main" java.lang.UnsupportedOperationException
 ```
 
 - 原因
-Arrays.asList内部ArrayList是内部单独继承实现的，没有实现add方法，跟java.util.ArrayList不是一回事，如图
-<img src="/img/20181228/01.png" alt="" width="600">
+
+    Arrays.asList内部ArrayList是内部单独继承实现的，没有实现add方法，跟java.util.ArrayList不是一回事，如图:
+    
+    <img src="/img/20181228/01.png" alt="" width="600">
