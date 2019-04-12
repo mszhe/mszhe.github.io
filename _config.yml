@@ -7,7 +7,7 @@
 
 # Site settings
 title: "mszhe's blog"
-brief-intro: "人心惟危，道心惟微。惟精惟一，允厥执中。"
+brief-intro: "人心惟危，道心惟微。惟精惟一，允执厥中。"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mszhe.github.io" # the base hostname & protocol for your site
 
