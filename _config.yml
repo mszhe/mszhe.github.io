@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "mszhe's blog"
+title: "mszhe的技术分享"
 brief-intro: "人心惟危，道心惟微。惟精惟一，允执厥中。"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mszhe.github.io" # the base hostname & protocol for your site
@@ -20,10 +20,10 @@ github_username:  mszhe
 email: mszhe@outlook.com
 weibo_username:
 zhihu_username:
-linkedIn_username: mszhe
+# linkedIn_username: mszhe
 dribbble_username:
 
-description_footer: mszhe'blog
+description_footer: mszhe的技术分享 | 粤ICP备19035408号 |
 
 # comments
 # two ways to comment, only choose one, and use your own short name
